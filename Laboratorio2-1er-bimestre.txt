@@ -1,4 +1,4 @@
-
+﻿	
 Usando el lenguaje de programación Java, realizar el reporte correspondiente en función de las características planteadas.
 
 En una empresa de ventas de electrodomésticos se paga a los empleados en función de las siguientes características:
@@ -30,7 +30,7 @@ En una empresa de ventas de electrodomésticos se paga a los empleados en funci�
 Reporte de Rol de Pagos por Empleado
 
 
-Nombres                       Sueldo Mensual    Incentivo-1   Hijos   Descuento SS    Total a Pagar
+Nombres                       Sueldo Mensual Incentivo-1   Hijos   Descuento SS    Total a Pagar
 Alex Aguinaga(20años)       
 Total                         340               17            5       X               x                                            
 
